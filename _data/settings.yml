@@ -2,19 +2,19 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: MyPage
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: eduardo.hvilla@gmail.com
+phone: +569 940 90655
+address: Santiago, Chile and the world!
+# copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  # - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -36,19 +36,19 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
-
+  hero-title: Hi! I’m <br> Edu Hernández Villa <br> Business/Startup Specialist & Enthusiast Developer 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  # - { icon: "ti-facebook", link: "#" }
+  # - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/ehernandezvilla/?locale=en_US" }
+  - { icon: "ti-twitter", link: "https://twitter.com/eduhvilla" }
+  - { icon: "ti-github", link: "https://github.com/ehernandezvilla/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: From a young age, I've been captivated by technology and business. I had the opportunity to be part of the initial team at Easy Taxi Chile, one of the first successful ride-hailing apps in Chile and Latin America. I contributed to its launch and initial leadership in Santiago. Later, I relocated to Ecuador to assume the role of Country Manager. My journey concluded at Cabify following the acquisition of the company. After Cabify, I worked with other startups like Viapool and the ex-unicorn SWVL, assisting with their expansion in Latin America. I am currently working on my own startup, Bakslash, a platform that helps small companies and entrepreneurs by serving as the bridge between technology and their businesses. I am also a freelance developer and am always on the lookout for new challenges and opportunities to learn and grow.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -56,32 +56,32 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+# work-process:
+#   - title: "Research and Plan"
+#     icon: "assets/images/icons/plan.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   - title: "Design and Develop"
+#     icon: "assets/images/icons/design.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   - title: "Deliver"
+#     icon: "assets/images/icons/print.png"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+# team:
+#   - title: "Jack Schenziwe"
+#     image: "assets/images/team/member-1.png"
+#     designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+#   - title: "Julias Carlie"
+#     image: "assets/images/team/member-2.png"
+#     designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#   - title: "John Doe"
+#     image: "assets/images/team/member-3.png"
+#     designation: "Designer"
 
 #-------------------------------
 # Skills Section
@@ -123,24 +123,44 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+        name: Fullstack Nanodegree with Python & Front End development Javascript, 
+        date: "2023",
+        organization: "Udacity"
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+        name: Exchange Entrepeneurship Program Babson Build MBA,
+        date: "2023",
+        organization: "Babson College, USA"
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+        name: Master of Business Administration (MBA),
+        date: "2021 - 2023",
+        organization: "University Andres Bello & European University of Madrid"
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+        name: Master Business Intelligence,
+        date: "2021 - 2023",
+        organization: "Central University, Chile",
+    }
+  - {
+      name: Postgraduate diploma in Financial Analysis & Valuation,
+      date: "2018 - 2021",
+      organization: "Catholic University, Chile",
+    }
+  - {
+      name: Postgraduate diploma in Big Data and Data Science,
+      date: "2020",
+      organization: "Catholic University of Valparaiso, Chile",
+    }
+  - {
+      name: Postgraduate diploma in Customer Intelligence and Data Mining,
+      date: "2017 - 2018",
+      organization: "University of Chile, Chile",
+    }
+  - {
+      name: Bachelor Degree In Business Administration (BBA),
+      date: "2009 - 2017",
+      organization: "University Andres Bello, Chile",
     }
 
 #-------------------------------
@@ -265,39 +285,39 @@ testimonial-items:
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-3.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-4.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-5.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-1.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-2.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-3.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-4.png"
+  #   url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+  # - logo: "assets/images/clients-logo/client-logo-5.png"
+  #   url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: eduardo.hvilla@gmail.com

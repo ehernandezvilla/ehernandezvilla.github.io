@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Eduardo Hernández Villa
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
