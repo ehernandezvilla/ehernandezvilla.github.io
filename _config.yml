@@ -16,7 +16,8 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename:output_ext/
+
 
 include:
   - _pages

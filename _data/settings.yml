@@ -88,13 +88,13 @@ blurb-btn-name: know more
 
 skills-title: Some of my expertise
 skills:
-  - { name: SQL / Data analysis, color: "#ff7d00", value: "90%" }
-  - { name: Web Development, color: "#252422", value: "90%" }
-  - { name: Python/APIs - Flask, color: "#ffecd1", value: "80%" }
+  - { name: SQL/Data analysis, color: "#ff7d00", value: "90%" }
+  - { name: Web Dev/Javascript, color: "#252422", value: "90%" }
+  - { name: Python/APIs - Flask+, color: "#ffecd1", value: "80%" }
   - { name: NLP and data modeling, color: "#eb5e28", value: "80%" }
-  - { name: Data Visualization/Tableau and similars, color: "#bdecf6", value: "80%" }
-  - { name: Web Apps, color: "#78290f", value: "70%" }
-  - { name: DevOps, color: "#001524", value: "70%" }
+  - { name: Data Visualization/PowerBI+, color: "#bdecf6", value: "80%" }
+  - { name: Web Apps/React, color: "#78290f", value: "70%" }
+  - { name: DevOps/Cloud - AWS+, color: "#001524", value: "70%" }
   - { name: Mobile Apps, color: "#15616d", value: "40%" }
 
 #-------------------------------
