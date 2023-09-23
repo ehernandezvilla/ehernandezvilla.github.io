@@ -86,12 +86,16 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Some of my expertise
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: SQL / Data analysis, color: "#ff7d00", value: "90%" }
+  - { name: Web Development, color: "#252422", value: "90%" }
+  - { name: Python/APIs - Flask, color: "#ffecd1", value: "80%" }
+  - { name: NLP and data modeling, color: "#eb5e28", value: "80%" }
+  - { name: Data Visualization/Tableau and similars, color: "#bdecf6", value: "80%" }
+  - { name: Web Apps, color: "#78290f", value: "70%" }
+  - { name: DevOps, color: "#001524", value: "70%" }
+  - { name: Mobile Apps, color: "#15616d", value: "40%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +103,28 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
-    }
-  - {
-      name: UX & UI Designer,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
-    }
-  - {
-      name: Senior UI Designer,
+      name: Founder,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "2022 to present",
+      organization: "Bakslash",
+    }
+  - {
+      name: Head of Operations Latam & Expansion,
+      icon: "icon-2.png",
+      date: "2021 - 2022",
+      organization: "Viapool / SWVL",
+    }
+  - {
+      name: Country Manager,
+      icon: "icon-1.png",
+      date: "2018 - 2020",
+      organization: "Cabify",
+    }
+  - {
+      name: Multiple positions from Country Manager to Head of Operations,
+      icon: "icon-3.png",
+      date: "2013 - 2018",
+      organization: "Easy Taxi (Rocket Internet)",
     }
 
 #-------------------------------
