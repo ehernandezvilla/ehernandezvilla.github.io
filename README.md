@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the personal website of Edu Hernández, a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
+This is my personal website as a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
 
 ## Features
 
