@@ -1,6 +1,6 @@
 # Edu Hernández - Startup/Business Enthusiast Developer
 
-![MyPage]([https://media-exp1.licdn.com/dms/image/C4D0BAQEwg5FK93uumQ/company-logo_200_200/0/1519923012279?e=2147483647&v=beta&t=63CNoS8OTR4lHjPhHSO7eFFqwLGwYunWfyDBV3tdc0c](https://github.com/ehernandezvilla/ehernandezvilla.github.io/blob/main/assets/images/home_.png.jpg)
+![MyPage](https://raw.githubusercontent.com/ehernandezvilla/ehernandezvilla.github.io/main/assets/images/home_.png.jpg)
 ## Overview
 
 This is my personal website as a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
