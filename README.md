@@ -55,7 +55,7 @@ This is my personal website as a Startup/Business Enthusiast Developer. The webs
 - Location: Chile
 
 <!-- licence -->
-## License & Inspiration for the design for my page
+## License & Inspiration for the design of this page
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
