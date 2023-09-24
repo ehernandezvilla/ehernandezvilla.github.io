@@ -1,6 +1,6 @@
 # Edu Hernández - Startup/Business Enthusiast Developer
 
-![Javatpoint](https://media-exp1.licdn.com/dms/image/C4D0BAQEwg5FK93uumQ/company-logo_200_200/0/1519923012279?e=2147483647&v=beta&t=63CNoS8OTR4lHjPhHSO7eFFqwLGwYunWfyDBV3tdc0c) 
+![MyPage](https://raw.githubusercontent.com/ehernandezvilla/ehernandezvilla.github.io/main/assets/images/home_.png.jpg)
 ## Overview
 
 This is my personal website as a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
@@ -55,7 +55,7 @@ This is my personal website as a Startup/Business Enthusiast Developer. The webs
 - Location: Chile
 
 <!-- licence -->
-## License & Inspiration for the design for my page
+## License & Inspiration for the design of this page
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
