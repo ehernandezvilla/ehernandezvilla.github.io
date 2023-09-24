@@ -1,5 +1,6 @@
 # Edu Hernández - Startup/Business Enthusiast Developer
 
+![Javatpoint](https://media-exp1.licdn.com/dms/image/C4D0BAQEwg5FK93uumQ/company-logo_200_200/0/1519923012279?e=2147483647&v=beta&t=63CNoS8OTR4lHjPhHSO7eFFqwLGwYunWfyDBV3tdc0c) 
 ## Overview
 
 This is the personal website of Edu Hernández, a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
