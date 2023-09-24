@@ -9,7 +9,7 @@ description: this is meta description
 email: eduardo.hvilla@gmail.com
 phone: /in/ehernandezvilla/
 address: Chile
-# copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+# copyright: Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Edu Hernández <br> Business/Startup & Enthusiast Developer 
+  hero-title: Hi! I’m <br> Edu Hernández <br> Startup/Business<br> Enthusiast Developer <br> Technology lover
 social:
   # - { icon: "ti-facebook", link: "#" }
   # - { icon: "ti-instagram", link: "#" }
@@ -203,10 +203,10 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://github.com/ehernandezvilla/flask-node-auth0"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://github.com/ehernandezvilla/evaluating-news-NLP"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
@@ -217,61 +217,61 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
 
-# Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+# # Portfolio Page
+# portfolio-label:
+#   - { title: "UI/UX Design", type: "design" }
+#   - { title: "BRANDING", type: "branding" }
+#   - { title: "ILLUSTRATION", type: "illustration" }
 
-portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
+# portfolio-items:
+#   - image: "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "illustration"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image: "assets/images/portfolio/item-2.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image: "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+#   - image: "assets/images/portfolio/item-6.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image: "assets/images/portfolio/item-8.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/item-5.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image: "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+#   - image: "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "illustration"
+#       - type: "branding"
 
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image: "assets/images/portfolio/item-7.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
