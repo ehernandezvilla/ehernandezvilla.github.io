@@ -1,55 +1,60 @@
-# Kross Jekyll
+# Edu Hernández - Startup/Business Enthusiast Developer
 
-Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https://themefisher.com/products/kross/)
+## Overview
 
-## Demo
+This is the personal website of Edu Hernández, a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
 
-| Homepage  | About  | Blog  | Portfolio  | Contact  |
-|---|---|---|---|---|
-| ![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png) | ![About](https://user-images.githubusercontent.com/37659754/58154317-28ea6f00-7c93-11e9-914b-b7e5f1cdab0e.png) | ![Blog](https://user-images.githubusercontent.com/37659754/58154339-369ff480-7c93-11e9-9568-53b7ebdc6b2d.png) | ![portfolio](https://user-images.githubusercontent.com/37659754/58154368-491a2e00-7c93-11e9-8900-f5a6abe0a61d.png) | ![contact](https://user-images.githubusercontent.com/37659754/58154403-57684a00-7c93-11e9-9cea-ea28253a6f6a.png) |
+## Features
 
-[Live Preview](http://demo.themefisher.com/kross).
+### About Me
 
-## Setup
+- A brief introduction about Edu's passion for technology and business.
+- Experience with startups like Easy Taxi, Viapool, SWVL, and Cabify.
+- Current work on Bakslash, a startup aimed at bridging the gap between technology and small businesses.
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+### Expertise
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+- SQL/Data Analysis
+- Web Development/Javascript
+- Python/APIs - Flask+
+- NLP and Data Modeling
+- Data Visualization/PowerBI+
+- Web Apps/React
+- DevOps/Cloud - AWS+
+- Mobile Apps
 
-## Customize
+### Experience
 
-Things you can customize in `_data/settings.yml` (no HTML/CSS):
+- Detailed work experience, including roles and responsibilities in various companies.
 
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Experience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+### Education
 
-## Deployment
+- Comprehensive list of educational qualifications, including degrees, diplomas, and ongoing courses.
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll's website.
+### Portfolio
 
-## Reporting Issues
+- Placeholder for showcasing projects or blogs.
 
-We use GitHub Issues as the official bug tracker for the **Kross Theme**. Please Search [existing issues](https://github.com/themefisher/kross-jekyll/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/kross-jekyll/issues/new)
+### Contact
 
-## Technical Support or Questions
+- A contact form for reaching out.
+- Additional contact details like email and LinkedIn.
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
+## Technologies Used
+
+- HTML
+- CSS/SCSS
+- JavaScript
+- Ruby
+
+## Contact Information
+
+- Email: eduardo.hvilla@gmail.com
+- LinkedIn: [/in/ehernandezvilla/](https://www.linkedin.com/in/ehernandezvilla/)
+- Location: Chile
 
 <!-- licence -->
-## License
+## License & Inspiration for the design for my page
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
