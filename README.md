@@ -3,13 +3,13 @@
 ![MyPage](https://raw.githubusercontent.com/ehernandezvilla/ehernandezvilla.github.io/main/assets/images/home_.png.jpg)
 ## Overview
 
-This is my personal website as a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing Edu's skills, experience, and educational background.
+This is my personal website as a Startup/Business Enthusiast Developer. The website serves as a portfolio and a brief biography, showcasing some of my main skills, experience, and educational background.
 
 ## Features
 
 ### About Me
 
-- A brief introduction about Edu's passion for technology and business.
+- A brief introduction about my passion for technology and business.
 - Experience with startups like Easy Taxi, Viapool, SWVL, and Cabify.
 - Current work on Bakslash, a startup aimed at bridging the gap between technology and small businesses.
 
@@ -41,7 +41,7 @@ This is my personal website as a Startup/Business Enthusiast Developer. The webs
 - A contact form for reaching out.
 - Additional contact details like email and LinkedIn.
 
-## Technologies Used
+## Technologies Used for this page
 
 - HTML
 - CSS/SCSS
