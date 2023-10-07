@@ -4,8 +4,8 @@
 
 title: MyPage - EduHernandez 
 logo: ./assets/images/bakslash_logo.png
-author: themefisher
-description: this is meta description
+author: edu hernandez
+description: edu hernandez personal site
 email: eduardo.hvilla@gmail.com
 phone: /in/ehernandezvilla/
 address: Chile
@@ -13,7 +13,7 @@ address: Chile
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+  # - { name: Blog, link: "/blog" }
   # - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Edu Hernández <br> Startup/Business<br> Enthusiast Developer <br> Technology lover
+  hero-title: Hi! I’m <br> Edu Hernández > <br> - Startup/Business<br> - Enthusiast Developer <br> - Passionate about technology
 social:
   # - { icon: "ti-facebook", link: "#" }
   # - { icon: "ti-instagram", link: "#" }
@@ -86,7 +86,7 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-skills-title: Some of my expertise
+skills-title: Technical expertise
 skills:
   - { name: SQL/Data analysis, color: "#ff7d00", value: "90%" }
   - { name: Web Dev/Javascript, color: "#252422", value: "90%" }
@@ -206,10 +206,10 @@ portfolio-home-items:
     url: "https://github.com/ehernandezvilla/flask-node-auth0"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "https://github.com/ehernandezvilla/evaluating-news-NLP"
+    url: "https://github.com/ehernandezvilla/travel-app"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://github.com/ehernandezvilla/evaluating-news-NLP"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
